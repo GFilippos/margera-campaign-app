@@ -27,7 +27,7 @@ Make sure you have the following installed on your machine:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/GFilippos/simple-campaign-app
+   git clone https://github.com/GFilippos/margera-campaign-app
    ```
 
 2. **Navigate to the project directory:**
@@ -88,7 +88,7 @@ Make sure you have the following installed on your machine:
 
 ### Tips
 
-**You are going to need an API KEY and a "ListID" on the .env file**
+**You are going to need an API KEY from campaign monitor api to reproduce to local env**
 
 ### License
 
