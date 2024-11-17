@@ -17,15 +17,15 @@ You can find a guide on the homepage on how to use the simple web app.
 The app is deployed on Heroku at https://margera-campaign-app-ff85e6af7437.herokuapp.com/ 
 so feel free to try the app!
 
-### Prerequisites
+#### Prerequisites
 
 Make sure you have the following installed on your machine:
 
 - Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
 
-### Installation
+#### Installation
 
-### Installation
+#### Installation
 
 1. **Clone the repository:**
 
@@ -61,7 +61,7 @@ Make sure you have the following installed on your machine:
    pnpm install
    ```
 
-### Running the Application
+#### Running the Application
 
 1. **Start the development server:**
 
@@ -91,10 +91,10 @@ Make sure you have the following installed on your machine:
    http://localhost:3000
    ```
 
-### Tips
+##### Tips
 
 **You are going to need an API KEY from campaign monitor api to reproduce to local env. Also rename the file .env.example to .env.local**
 
-### License
+##### License
 
 This project is for Margera and is not licensed for general use.
