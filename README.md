@@ -88,7 +88,7 @@ Make sure you have the following installed on your machine:
 
 ### Tips
 
-**You are going to need an API KEY from campaign monitor api to reproduce to local env**
+**You are going to need an API KEY from campaign monitor api to reproduce to local env. Also rename the file .env.example to .env.local**
 
 ### License
 
