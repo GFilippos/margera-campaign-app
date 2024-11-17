@@ -5,6 +5,7 @@ import { ControllerRenderProps } from 'react-hook-form';
 
 interface CustomCheckBoxProps {
   msg: string;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   field: ControllerRenderProps<any, string>;
   className?: string;
 }
