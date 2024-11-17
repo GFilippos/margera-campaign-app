@@ -12,6 +12,11 @@ You can find a guide on the homepage on how to use the simple web app.
 
 **You are going to need an API key and a ListId to be able to connect to the campaign monitor api. You can find an example of the keys at the file .env.example**
 
+### Access on Heroku
+
+The app is deployed on Heroku at https://margera-campaign-app-ff85e6af7437.herokuapp.com/ 
+so feel free to try the app!
+
 ### Prerequisites
 
 Make sure you have the following installed on your machine:
